@@ -1,95 +1,157 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm PALARAPU VAMSHI KRISHNA
-</h1>
+<h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+Graduate+in+Data+Science;Generative+AI+%26+Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+AWS+Cloud+Enthusiast;Building+AI-powered+Real-World+Applications" />
+<h3 align="center">
+AI Engineer | Python Developer | Backend Developer | Data Science Enthusiast
+</h3>
+
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+🎓 B.Tech Graduate <br>
+💻 Skilled in Python, Django, FastAPI, Machine Learning <br>
+🤖 Interested in AI Engineering, Backend Development, Data Science <br>
+🚀 Building real world AI & Web projects <br>
+📍 India
 </p>
 
+<hr>
+
+<h2>🛠 Technical Skills</h2>
+
+<h3>Programming</h3>
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>C (Basics)</li>
+<li>Java (Basics)</li>
+</ul>
+
+<h3>Web & Backend</h3>
+<ul>
+<li>Django</li>
+<li>FastAPI</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>REST API</li>
+</ul>
+
+<h3>AI / Data Science</h3>
+<ul>
+<li>NumPy</li>
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>Scikit-learn</li>
+<li>Machine Learning</li>
+<li>Deep Learning (Basics)</li>
+<li>Data Analysis</li>
+</ul>
+
+<h3>Database / Tools</h3>
+<ul>
+<li>PostgreSQL</li>
+<li>MySQL</li>
+<li>Cloudinary</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</ul>
+
+<hr>
+
+<h2>🚀 Projects</h2>
+
+<ul>
+
+<li>
+<b>AI-Based Medical Chatbot for Infectious Disease Prediction</b><br>
+Developed AI chatbot using Machine Learning & Deep Learning to predict diseases from symptoms with probabilistic confidence and adaptive learning.
+</li>
+
+<br>
+
+<li>
+<b>ResearchNest – Academic Resource Platform</b><br>
+Built using Django, PostgreSQL, Cloudinary, HTML/CSS/JS.  
+Secure platform for uploading, organizing, and sharing academic data with role-based access and tagging.
+</li>
+
+<br>
+
+<li>
+<b>Django Blog Website</b><br>
+Full stack blog application with authentication using Django.
+</li>
+
+<br>
+
+<li>
+<b>FastAPI REST API</b><br>
+Backend API development using FastAPI with CRUD operations.
+</li>
+
+<br>
+
+<li>
+<b>Data Analysis Project</b><br>
+Data analysis using Pandas, NumPy, Matplotlib.
+</li>
+
+<br>
+
+<li>
+<b>Machine Learning Model</b><br>
+Prediction model using Scikit-learn.
+</li>
+
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhav1912&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+
 </p>
 
----
+<hr>
 
-## 👨‍💻 About Me
+<h2>📫 Contact Me</h2>
 
-- 🎓 **B.Tech Graduate in Data Science**
-- 🤖 Passionate about **Generative AI, NLP, and Large Language Models**
-- 🧠 Hands-on experience in **ML, Deep Learning & AI-powered apps**
-- ☁️ AWS Cloud enthusiast with exposure to **deployment & scalable systems**
-- 📊 Strong in **data preprocessing, feature engineering & model evaluation**
+<p>
 
----
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/>
+</a>
 
-## 🔥 Current Focus
+&nbsp;&nbsp;
 
-- 🌱 Generative AI, NLP, Prompt Engineering  
-- 🧠 LLMs, LangChain, Vector Databases, RAG  
-- ☁️ Deploying ML & AI apps using AWS  
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
 
----
+&nbsp;&nbsp;
 
-## 🤝 Open to Collaborate On
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+</a>
 
-- 🤖 AI Chatbots & Virtual Assistants  
-- 📚 NLP & LLM-based applications  
-- 📊 End-to-End Data Science projects  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,django,mysql,mongodb,aws,pytorch,tensorflow" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-- 🚀 **AI Chatbot using NLP & LLMs**
-- 📊 **Machine Learning Prediction Systems**
-- 📈 **Data Analysis & Visualization Dashboards**
-- 🌐 **Django-based ML Web Applications**
-- ☁️ **AWS Deployed ML Solutions**
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav1912&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav1912&theme=tokyonight" height="165"/>
+<p>
+Email: vamshi02012004@gmail.com <br>
+LinkedIn: https://linkedin.com/in/vamshi-krishna-palarapu-9a296827b
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav1912&theme=tokyo-night" />
-</p>
+<hr>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/vamshi-krishna-palar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vamshi02012004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-     </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies 🏆
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhav1912&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  ✨ <b>Building intelligent systems that solve real-world problems</b> ✨
-</p>
+<h3 align="center">⭐ AI Engineer in Progress | Open to Work | Keep Learning 🚀</h3>
