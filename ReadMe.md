@@ -1,157 +1,90 @@
-<h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
+<h1 align="center">  
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm PALARAPU VAMSHI KRISHNA  
+</h1>  
 
-<h3 align="center">
-AI Engineer | Python Developer | Backend Developer | Data Science Enthusiast
-</h3>
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+Graduate+in+Data+Science;Python+Developer+%7C+AI+%7C+Machine+Learning;C+%7C+Java+%7C+SQL;Building+Real+World+Projects" />  
+</p>  
 
-<hr>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=vamshi-krishna-palar&label=Profile%20Views&color=0e75b6&style=flat" />  
+</p>  
 
-<h2>👨‍💻 About Me</h2>
+---
 
-<p>
-🎓 B.Tech Graduate <br>
-💻 Skilled in Python, Django, FastAPI, Machine Learning <br>
-🤖 Interested in AI Engineering, Backend Development, Data Science <br>
-🚀 Building real world AI & Web projects <br>
-📍 India
-</p>
+## 👨‍💻 About Me  
 
-<hr>
+- 🎓 B.Tech Graduate in Data Science  
+- 💻 Strong in Python, C, Java, SQL  
+- 🤖 Interested in Artificial Intelligence & Machine Learning  
+- 📊 Good knowledge of Data Science & Data Analysis  
+- 🌐 Interested in Software Development roles (SDE)  
+- 🚀 Passionate about building real-world projects  
 
-<h2>🛠 Technical Skills</h2>
+---
 
-<h3>Programming</h3>
-<ul>
-<li>Python</li>
-<li>SQL</li>
-<li>C (Basics)</li>
-<li>Java (Basics)</li>
-</ul>
+## 🔥 Current Focus  
 
-<h3>Web & Backend</h3>
-<ul>
-<li>Django</li>
-<li>FastAPI</li>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript</li>
-<li>REST API</li>
-</ul>
+- 🌱 Python Programming  
+- 🤖 Machine Learning Basics  
+- 📊 Data Science Projects  
+- 💻 Problem Solving & DSA  
 
-<h3>AI / Data Science</h3>
-<ul>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Matplotlib</li>
-<li>Scikit-learn</li>
-<li>Machine Learning</li>
-<li>Deep Learning (Basics)</li>
-<li>Data Analysis</li>
-</ul>
+---
 
-<h3>Database / Tools</h3>
-<ul>
-<li>PostgreSQL</li>
-<li>MySQL</li>
-<li>Cloudinary</li>
-<li>Git</li>
-<li>GitHub</li>
-<li>VS Code</li>
-<li>Jupyter Notebook</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Projects</h2>
-
-<ul>
-
-<li>
-<b>AI-Based Medical Chatbot for Infectious Disease Prediction</b><br>
-Developed AI chatbot using Machine Learning & Deep Learning to predict diseases from symptoms with probabilistic confidence and adaptive learning.
-</li>
-
-<br>
-
-<li>
-<b>ResearchNest – Academic Resource Platform</b><br>
-Built using Django, PostgreSQL, Cloudinary, HTML/CSS/JS.  
-Secure platform for uploading, organizing, and sharing academic data with role-based access and tagging.
-</li>
-
-<br>
-
-<li>
-<b>Django Blog Website</b><br>
-Full stack blog application with authentication using Django.
-</li>
-
-<br>
-
-<li>
-<b>FastAPI REST API</b><br>
-Backend API development using FastAPI with CRUD operations.
-</li>
-
-<br>
-
-<li>
-<b>Data Analysis Project</b><br>
-Data analysis using Pandas, NumPy, Matplotlib.
-</li>
-
-<br>
-
-<li>
-<b>Machine Learning Model</b><br>
-Prediction model using Scikit-learn.
-</li>
-
-</ul>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
+## 🛠️ Programming Languages  
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 </p>
 
-<hr>
+---
 
-<h2>📫 Contact Me</h2>
+## 🤖 AI / Data Science / ML  
 
-<p>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
-</a>
-
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149676.png" width="70"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="70"/>
 </p>
 
-<p>
-Email: vamshi02012004@gmail.com <br>
-LinkedIn: https://linkedin.com/in/vamshi-krishna-palarapu-9a296827b
+---
+
+## 📌 Projects  
+
+- 🔹 Student Result Prediction using Machine Learning  
+- 🔹 Data Analysis using Python & Pandas  
+- 🔹 Basic AI Chatbot using Python  
+- 🔹 Mini Projects in C and Java  
+- 🔹 SQL Database Project  
+
+---
+
+## 🤝 Open to Work  
+
+- Software Developer (SDE)  
+- Python Developer  
+- Data Science / ML Intern  
+- AI / NLP Intern  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/vamshi-krishna-palar" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>  
+  <a href="mailto:vamshi02012004@gmail.com">  
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>  
+</p>  
+
+---
+
+<p align="center">  
+✨ Building skills step by step to become AI Engineer / Software Developer ✨  
 </p>
-
-<hr>
-
-<h3 align="center">⭐ AI Engineer in Progress | Open to Work | Keep Learning 🚀</h3>
