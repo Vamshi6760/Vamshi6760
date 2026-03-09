@@ -72,15 +72,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/stg-madhav-srivastha" target="_blank">
+  <a href="www.linkedin.com/in/vamshi-krishna-palar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:madhavsrivathsa19@gmail.com">
+  <a href="mailto:vamshi02012004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.topcoder.com/members/500092" target="_blank">
-    <img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white"/>
-  </a>
+     </a>
 </p>
 
 ---
